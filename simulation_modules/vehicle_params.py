@@ -1,7 +1,6 @@
 #The Project is under development stage
 import specs
 
-
 class vehicle:
     
     def charging():
