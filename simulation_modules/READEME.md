@@ -3,6 +3,7 @@ This project is under first phase develpment
 Current work is mainly focused on vehicle_params.py module
 
 About modules:-
+
 Each module has its own input and its own output
 
 The output of all the modules is used in main.py module
